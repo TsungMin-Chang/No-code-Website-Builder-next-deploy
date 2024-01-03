@@ -54,7 +54,7 @@ const ToolBar = ({editMode, onChangeMode, onPreDownload, pointer, apiData, onRef
     element.click();
   }
   const handleCSS = () => {
-    const cssUrl = 'https://sandra.cinatrin.pro/_next/static/css/e7d3bab42d9af29d.css';
+    const cssUrl = 'https://no-code-website-builder-next-deploy-34qd.vercel.app/_next/static/css/e7d3bab42d9af29d.css';
     const downloadLink = document.createElement('a');
     downloadLink.href = cssUrl;
     downloadLink.download = 'e7d3bab42d9af29d.css';
@@ -63,7 +63,7 @@ const ToolBar = ({editMode, onChangeMode, onPreDownload, pointer, apiData, onRef
     document.body.removeChild(downloadLink);
   }
   const handleCSS2 = () => {
-    const cssUrl = 'https://sandra.cinatrin.pro/_next/static/css/ed4e32fac4b79d78.css';
+    const cssUrl = 'https://no-code-website-builder-next-deploy-34qd.vercel.app/_next/static/css/ed4e32fac4b79d78.css';
     const downloadLink = document.createElement('a');
     downloadLink.href = cssUrl;
     downloadLink.download = 'ed4e32fac4b79d78.css';
