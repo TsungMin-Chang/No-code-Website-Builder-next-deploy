@@ -5,6 +5,7 @@
    ```bash
    yarn
    ```
+   
 2. Create `.env.local` file in the project root and add the following content:
 
    ```text
