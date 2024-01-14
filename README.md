@@ -1,11 +1,12 @@
-### No-code Website Builder
-## Start building websites without writing a single line of code! 
+# No-code Website Builder
+
+### Start building websites without writing a single line of code! 
 
 ## Official Website Link:
 https://sandra.cinatrin.pro
 
 ---
-# Run the project
+## Run the project
 
 1. Install dependencies
    ```bash
