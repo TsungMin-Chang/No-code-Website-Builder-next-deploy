@@ -1,8 +1,7 @@
 # No-code Website Builder
 ### Start building websites without writing a single line of code! 
 
-## Official Website Link:
-https://sandra.cinatrin.pro
+### Official Website Link: https://sandra.cinatrin.pro
 
 ---
 ## Run the project
